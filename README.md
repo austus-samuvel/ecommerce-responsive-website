@@ -4,7 +4,7 @@ A fully responsive e-commerce landing page built as part of the
 'Build Your Own Responsive Website' course on CCBP 4.0 NxtWave Academy.
 
 ## 🔗 Live Demo
-ecommerceaus.ccbp.tech
+[Click here to view the live website](https://ecommerceaus.ccbp.tech)
 
 ## 🛠️ Technologies Used
 - HTML5
