@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-comp {
+    height: 56px;
+    width: 163px;
+}
+
+.ecommerce-container {
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg-container2 {
+    font-family: Roboto;
+}
+
+.our-h {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.most-p {
+    color: #616c7c;
+    font-size: 25px
+}
+
+.del-img {
+    height: 120px;
+    width: 120px;
+}
+
+.fast-h {
+    color: #1f2933;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.fast-p {
+    color: #7b8794;
+    font-size: 20px;
+}
+
+
+.main-h5 {
+    font-weight: bold;
+    color: #183b56;
+    font-size: 35px;
+}
+
+.bg-container3 {
+    font-family: Roboto;
+}
+
+
+.smart-h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+
+}
+
+.phones-p {
+    color: white;
+    font-size: 20px;
+}
+
+.button-de {
+    background-color: white;
+    color: #ff9f00;
+    font-weight: 400;
+    border-width: 0px;
+    border-radius: 40px;
+    padding: 15px;
+    width: 150px;
+
+
+}
+
+.m-tilte {
+    color: #323f4b;
+}
+
+.inside-p {
+    color: #323f4b;
+}
+
+.inside-h {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.butz {
+    border-style: solid;
+    border-color: black;
+}
+
+.card-containerz {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    height: 450px;
+}
+
+.card-containerlap {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    height: 450px;
+}
+
+.see-container {
+    text-align: end;
+}
+
+.see-head {
+    color: #ff9f00;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.button-der {
+    background-color: white;
+    color: #ff9f00;
+    font-weight: 400;
+    border-width: 0px;
+    border-radius: 40px;
+    padding: 15px;
+    width: 150px;
+
+
+}
+
+.bg-container4 {
+    background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167);
+
+
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.best-h1 {
+    color: #ad2167;
+}
+
+.best-p1 {
+    color: white;
+    font-size: 30px;
+}
+
+.percent-style {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.bg-container6 {
+    font-family: Roboto;
+}
+
+.trend-h {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.card-containere {
+    padding: 20px;
+}
+
+.Fount-p {
+    color: #959ead;
+    font-size: 23px;
+}
+
+.how-h {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.Fount-pp {
+    color: #959ead;
+    font-size: 30px;
+}
+
+.read-c {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bg-container5 {
+    font-family: Roboto;
+    background-color: #f5f7fa;
+}
+
+.Explore-h {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.upto-h {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.card-containerd {
+    border-radius: 10px;
+}
+
+.img-photo {
+    border-radius: 30px;
+    width: 100%;
+}
+
+.smart-h {
+    color: #1f2933;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.arrow-mark {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.img-photo1 {
+    border-radius: 30px;
+    width: 100%;
+    height: 290px;
+}
+
+.bg-container7 {
+    background-color: #f5f7fa;
+    font-family: Roboto;
+}
+
+.let-h {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.cont-btn {
+    border-style: solid;
+    border-color: #ff9f00;
+    color: #ff9f00;
+    padding: 10px;
+}
+
+.bg-container8 {
+    background-color: #0d2436;
+    font-family: Roboto;
+}
+
+.bird-img {
+
+    width: 170px;
+    height: 60px;
+}
+
+
+.icon2-bg {
+    background-color: #152c3e;
+    padding: 15px;
+    border-radius: 80px;
+
+}
+
+.a-color {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.address-p {
+    color: white;
+    padding-right: 20px;
+}
+
+.get-h {
+    color: #5a7184;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.list-colo {
+    color: #5a7184;
+    font-size: 23px;
+    list-style-type: none;
+}
+
+.line-colo {
+    background-color: #5a7184;
+}
+
+.first-card-container {
+    overflow: hidden;
+    max-width: 100%;
+    padding-right: 15px;
+}
+
+#section-home,
+#service-page,
+#our-products-section,
+#Trending-section,
+#explore-section {
+    scroll-margin-top: 70px;
+}
